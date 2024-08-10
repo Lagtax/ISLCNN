@@ -1,4 +1,4 @@
 
 import splitfolders
-dr = 'SignImage64x64'
-splitfolders.ratio(dr,"splitdataset64x64" ,ratio=(0.8,0.2))
+dr = 'SignImage48x48'
+splitfolders.ratio(dr,"splitdataset48x48" ,ratio=(0.8,0.2))
